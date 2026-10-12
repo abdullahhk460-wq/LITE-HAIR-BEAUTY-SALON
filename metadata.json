@@ -1,0 +1,6 @@
+{
+  "name": "LITE Hair & Beauty | صالون ايوليت",
+  "description": "Bilingual luxury salon sales demo for LITE Hair & Beauty in Riyadh, Saudi Arabia. Explore hair, color, nails, beauty services, and interactive booking request flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
